@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an iOS app for a Canadian yoga pants retailer
+- 🌱 I’m currently learning ...
+- 💬 Ask me about Overwatch and coffee and how great Vine was.
+- 📫 How to reach me: <a rel="me" href="https://iosdev.space/@jakegrant">toot</a>
+- 🍌 Fun fact: I'm allergic to bananas
+
 <!--
 **jakedgrant/jakedgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Verification -->
+<a rel="me" href="https://iosdev.space/@jakegrant"></a>
