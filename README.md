@@ -18,4 +18,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+<html prefix="og: http://ogp.me/ns#">
+<head>
+  <meta property="og:title" content="An Eclipse Chaser’s Guide to Your First Eclipse" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.nytimes.com/2017/08/14/science/eclipse-chasers-first.html" />
+  <meta property="og:image" content="https://static01.nyt.com/images/2017/08/15/science/15SCI-CHASERS4/15SCI-CHASERS4-facebookJumbo.jpg" />
+</head>
+</html>
