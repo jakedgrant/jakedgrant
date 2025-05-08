@@ -1,3 +1,5 @@
+# SmartFilter
+
 # Privacy Policy
 
 The policy applies to all information collected on SmartFilter’s website and our apps for iPhone and any other devices and platforms.
