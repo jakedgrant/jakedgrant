@@ -1,32 +1,13 @@
-### Hi there 👋
+### Jake Grant
 
-- 🔭 I’m currently working on an iOS app for a Canadian yoga pants retailer
-- 💬 Ask me about Overwatch and coffee and how great Vine was.
-- 🐘 How to reach me: <a rel="me" href="https://iosdev.space/@jakegrant">toot</a> <!-- Mastodon verification -->
-- 🍌 Fun fact: I'm allergic to bananas
+Senior iOS Developer based in Tulsa, OK. I've spent the last 4 years building features for Lululemon's retail app (4M+ monthly active users) — order tracking, in-store experiences, API migrations, production monitoring. Before that, 5 years of software engineering at Siemens.
 
-<!--
-**jakedgrant/jakedgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ship my own apps too:
 
-Here are some ideas to get you started:
+- **Smart Choices** — behavioral reward app with SwiftUI, SwiftData, App Intents, and an Apple Watch companion. On the App Store.
+- **TokCleaner** — Safari extension that strips tracking parameters from TikTok URLs.
+- **SmartFilter for SMS** — spam filtering with on-device CoreML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Day to day I work in Swift and SwiftUI. I use Claude Code and GitHub Copilot for most of my development.
 
-
--->
-
-<html prefix="og: http://ogp.me/ns#">
-<head>
-  <meta property="og:title" content="An Eclipse Chaser’s Guide to Your First Eclipse" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://www.nytimes.com/2017/08/14/science/eclipse-chasers-first.html" />
-  <meta property="og:image" content="https://static01.nyt.com/images/2017/08/15/science/15SCI-CHASERS4/15SCI-CHASERS4-facebookJumbo.jpg" />
-</head>
-</html>
+Currently open to senior iOS roles.
