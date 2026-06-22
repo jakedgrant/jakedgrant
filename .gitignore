@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+
+# macOS
+.DS_Store
